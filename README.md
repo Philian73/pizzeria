@@ -1,5 +1,6 @@
 # Pizzeria
 
+-------------
 ### Technologies/Libraries:
 - [x] React
 - [x] TypeScript
@@ -7,3 +8,4 @@
 - [x] Prettier
 - [x] Stylelint
 - [x] SASS
+-------------
